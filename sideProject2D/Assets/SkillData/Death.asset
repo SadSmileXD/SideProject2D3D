@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 492c58325edcf5f4786ec0755fe86485, type: 3}
+  m_Name: Death
+  m_EditorClassIdentifier: Assembly-CSharp::SkillData
+  m_Sprite: {fileID: 1547346481167374991, guid: ff919a8e2dc1e4742bea4cbbaa6a6f48, type: 3}
+  m_skillName: Death
